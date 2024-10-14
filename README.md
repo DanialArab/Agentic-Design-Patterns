@@ -24,3 +24,5 @@ Reflection is a relatively basic type of agentic workflow, but I've been delight
 - “Reflexion: Language Agents with Verbal Reinforcement Learning,” Shinn et al. (2023)
 
 - “CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing,” Gou et al. (2024)
+
+## Tool Use Design Pattern
