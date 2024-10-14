@@ -26,3 +26,6 @@ Reflection is a relatively basic type of agentic workflow, but I've been delight
 - “CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing,” Gou et al. (2024)
 
 ## Tool Use Design Pattern
+
+How large language models can act as agents by taking advantage of external tools for search, code execution, productivity, ad infinitum
+
