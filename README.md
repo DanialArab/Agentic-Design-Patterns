@@ -19,6 +19,8 @@ Further, we can implement Reflection using a multi-agent framework. I've found i
 
 Reflection is a relatively basic type of agentic workflow, but I've been delighted by how much it improved my applications’ results in a few cases. I hope you will try it in your own work. If you’re interested in learning more about reflection, I recommend these papers:
 
-“Self-Refine: Iterative Refinement with Self-Feedback,” Madaan et al. (2023)
-“Reflexion: Language Agents with Verbal Reinforcement Learning,” Shinn et al. (2023)
-“CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing,” Gou et al. (2024)
+- “Self-Refine: Iterative Refinement with Self-Feedback,” Madaan et al. (2023)
+
+- “Reflexion: Language Agents with Verbal Reinforcement Learning,” Shinn et al. (2023)
+
+- “CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing,” Gou et al. (2024)
