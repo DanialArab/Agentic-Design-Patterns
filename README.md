@@ -2,7 +2,7 @@
 
 https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/?ref=dl-staging-website.ghost.io
 
-The design patterns:
+The four design patterns for AI agentic workflow:
 
 - Reflection: The LLM examines its own work to come up with ways to improve it. 
 - Tool Use: The LLM is given tools such as web search, code execution, or any other function to help it gather information, take action, or process data.
