@@ -29,3 +29,11 @@ Reflection is a relatively basic type of agentic workflow, but I've been delight
 
 How large language models can act as agents by taking advantage of external tools for search, code execution, productivity, ad infinitum
 
+Tool Use, in which an LLM is given functions it can request to call for gathering information, taking action, or manipulating data, is a key design pattern of AI agentic workflows. You may be familiar with LLM-based systems that can perform a web search or execute code. Indeed, some large, consumer-facing LLMs already incorporate these features. But Tool Use goes well beyond these examples. 
+
+Early in the history of LLMs, before widespread availability of large multimodal models (LMMs)  like LLaVa, GPT-4V, and Gemini, LLMs could not process images directly, so a lot of work on Tool Use was carried out by the computer vision community. At that time, the only way for an LLM-based system to manipulate an image was by calling a function to, say, carry out object recognition or some other function on it. Since then, practices for Tool Use have exploded. GPT-4’s function calling capability, released in the middle of last year, was a significant step toward a general-purpose implementation. Since then, more and more LLMs are being developed to be similarly facile with Tool Use. 
+
+## Planning Design Pattern
+
+Large language models can drive powerful agents to execute complex tasks if you ask them to plan the steps before they act.
+
